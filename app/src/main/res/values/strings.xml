@@ -2,6 +2,7 @@
     <string name="app_name">Khaana Kart Admin</string>
     <string name="splash_screen_title">Khaana Kart</string>
     <string name="primary_logo_desc">Primary Application Logo</string>
+    <string name="image_desc">Image</string>
     <string name="app_slogan">Fresh Flavors, Fast</string>
     <string name="app_designed_by_text">Developed by \n Arghadeep</string>
     <string name="admin_dashboard_text">Admin Dashboard</string>
@@ -22,4 +23,15 @@
     <string name="sign_up_with_text">Sign Up With</string>
     <string name="choose_location_text">Choose Your Location</string>
     <string name="auto_complete_placeholder">-- Select --</string>
+    <string name="pending_order_text">Pending\nOrders</string>
+    <string name="completed_order_text">Completed\nOrders</string>
+    <string name="total_earnings_text">Total\nEarnings</string>
+    <string name="placeholder_double_text">17.99</string>
+    <string name="placeholder_int_text">17</string>
+    <string name="add_items_to_menu_text">Add Items\nTo Menu</string>
+    <string name="view_all_items_in_menu_text">View All\nItems In Menu</string>
+    <string name="my_profile_text">My Profile</string>
+    <string name="create_new_user_text">Create\nNew User</string>
+    <string name="order_status_text">Order Status</string>
+    <string name="logout_text">Logout</string>
 </resources>

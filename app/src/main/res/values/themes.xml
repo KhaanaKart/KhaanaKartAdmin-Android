@@ -33,6 +33,19 @@
         <item name="android:textColor">@color/primary_theme_color</item>
     </style>
 
+    <style name="secondary_title">
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/primary_theme_color</item>
+    </style>
+
+    <style name="emphasis_text">
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/primary_theme_color</item>
+    </style>
+
     <style name="primary_text_field">
         <item name="android:layout_width">320dp</item>
         <item name="android:layout_height">56dp</item>
