@@ -8,4 +8,5 @@
     <color name="tertiary_theme_color">#F3E9EB</color>
     <color name="border_color">#F4F4F4</color>
     <color name="card_bg_color">#F8F8F8</color>
+    <color name="grey_font">#ff9e9e9e</color>
 </resources>
