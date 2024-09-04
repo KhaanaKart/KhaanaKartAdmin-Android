@@ -21,5 +21,15 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, AddMenuItemsActivity::class.java)
             startActivity(intent)
         }
+
+        binding.viewAllItemsCardView.setOnClickListener {
+            val intent = Intent(this, ViewMenuActivity::class.java)
+            startActivity(intent)
+        }
+
+        binding.orderStatusCardView.setOnClickListener {
+            val intent = Intent(this, OrderStatusActivity::class.java)
+            startActivity(intent)
+        }
     }
 }

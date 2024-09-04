@@ -35,6 +35,8 @@
     <string name="order_status_text">Order Status</string>
     <string name="logout_text">Logout</string>
     <string name="add_items_to_menu_screen_title">Add Menu Item</string>
+    <string name="view_menu_screen_title">Menu</string>
+    <string name="order_status_screen_title">Order Status</string>
     <string name="item_name_text">Name:</string>
     <string name="item_price_text">Price:</string>
     <string name="item_image_text">Image:</string>
@@ -47,4 +49,8 @@
     <string name="menu_item_ingredients_text_field_hint">Enter Menu Item Ingredients</string>
     <string name="add_menu_item_button_text">Add Item</string>
     <string name="placeholder_long_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="placeholder_image_desc">Placeholder Image</string>
+    <string name="placeholder_string_text">Placeholder Text</string>
+    <string name="delivered_text">Delivered</string>
+    <string name="payment_text">Payment</string>
 </resources>

@@ -13,6 +13,12 @@
         android:theme="@style/Theme.KhaanaKartAdmin"
         tools:targetApi="31">
         <activity
+            android:name=".OrderStatusActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewMenuActivity"
+            android:exported="false" />
+        <activity
             android:name=".AddMenuItemsActivity"
             android:exported="false" />
         <activity
