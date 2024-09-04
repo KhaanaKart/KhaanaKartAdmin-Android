@@ -29,8 +29,8 @@ class ViewMenuActivity : AppCompatActivity() {
         )
 
         val adapter = MenuItemAdapter(menuItemList.toMutableList())
-        binding.cartRecyclerView.layoutManager = LinearLayoutManager(this)
-        binding.cartRecyclerView.adapter = adapter
+        binding.menuRecyclerView.layoutManager = LinearLayoutManager(this)
+        binding.menuRecyclerView.adapter = adapter
 
         binding.backButton.setOnClickListener {
             this.finish()

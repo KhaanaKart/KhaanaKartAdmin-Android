@@ -16,6 +16,7 @@
     <string name="login_button_text">Login</string>
     <string name="do_not_have_account_text">Don\'t have account?</string>
     <string name="sign_up_here_text">Sign Up Here</string>
+    <string name="name_text_field_hint">Name</string>
     <string name="owner_name_text_field_hint">Owner Name</string>
     <string name="restaurant_name_text_field_hint">Restaurant Name</string>
     <string name="already_have_account_text">Already have an account?</string>
@@ -37,6 +38,8 @@
     <string name="add_items_to_menu_screen_title">Add Menu Item</string>
     <string name="view_menu_screen_title">Menu</string>
     <string name="order_status_screen_title">Order Status</string>
+    <string name="profile_screen_title">Admin Profile</string>
+    <string name="pending_order_screen_title">Pending Order</string>
     <string name="item_name_text">Name:</string>
     <string name="item_price_text">Price:</string>
     <string name="item_image_text">Image:</string>
@@ -53,4 +56,15 @@
     <string name="placeholder_string_text">Placeholder Text</string>
     <string name="delivered_text">Delivered</string>
     <string name="payment_text">Payment</string>
+    <string name="edit_profile_prompt_text">Click here to edit</string>
+    <string name="profile_name_text">Name</string>
+    <string name="profile_address_text">Address</string>
+    <string name="profile_email_text">Email</string>
+    <string name="profile_phone_text">Phone</string>
+    <string name="profile_password_text">Password</string>
+    <string name="save_information_button_text">Save Information</string>
+    <string name="create_new_user_admin_text">Create New User Admin</string>
+    <string name="create_new_user_button_text">Create New User</string>
+    <string name="accept_button_text">Accept</string>
+    <string name="quantity_text">Quantity</string>
 </resources>

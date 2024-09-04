@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white">
+    android:background="@color/white"
+    tools:context=".OrderStatusActivity">
 
     <TextView
         android:id="@+id/textView15"
@@ -32,7 +33,7 @@
         app:tint="@color/primary_theme_color" />
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/cartRecyclerView"
+        android:id="@+id/orderStatusRecyclerView"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginTop="16dp"

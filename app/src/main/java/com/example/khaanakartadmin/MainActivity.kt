@@ -31,5 +31,20 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, OrderStatusActivity::class.java)
             startActivity(intent)
         }
+
+        binding.myProfileCardView.setOnClickListener {
+            val intent = Intent(this, ProfileActivity::class.java)
+            startActivity(intent)
+        }
+
+        binding.createNewUserCardView.setOnClickListener {
+            val intent = Intent(this, CreateNewUserActivity::class.java)
+            startActivity(intent)
+        }
+
+        binding.pendingOrdersSection.setOnClickListener {
+            val intent = Intent(this, PendingOrderActivity::class.java)
+            startActivity(intent)
+        }
     }
 }

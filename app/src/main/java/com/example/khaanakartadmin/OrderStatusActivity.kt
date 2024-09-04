@@ -35,8 +35,8 @@ class OrderStatusActivity : AppCompatActivity() {
         )
 
         val adapter = OrderStatusItemAdapter(orderStatusList.toMutableList())
-        binding.cartRecyclerView.layoutManager = LinearLayoutManager(this)
-        binding.cartRecyclerView.adapter = adapter
+        binding.orderStatusRecyclerView.layoutManager = LinearLayoutManager(this)
+        binding.orderStatusRecyclerView.adapter = adapter
 
         binding.backButton.setOnClickListener {
             this.finish()
